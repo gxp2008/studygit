@@ -1,6 +1,6 @@
 #!/bin/bash
-## written by aming.
-## 2015-06-24.
+## fix by gxp2008.
+## 2016-08-24.
 
 #######Begin########
 echo "It will install lamp or lnmp."
